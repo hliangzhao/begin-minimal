@@ -1,0 +1,2 @@
+# begin-minimal
+Begin app
